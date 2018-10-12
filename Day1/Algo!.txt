@@ -1,0 +1,13 @@
+Algorithm for This Webpage
+
+HTML side
+1. start the html tags
+2. link the stylesheet
+3. open the body tags
+4. the div tags are used henceforth
+---- first div has class of keys
+---- next div has two classes for each item:
+      data-key and class
+---- kbd tags are used next
+---- span tags with a class of sound
+---- close the div
